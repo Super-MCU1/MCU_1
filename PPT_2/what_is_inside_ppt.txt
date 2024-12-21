@@ -1,0 +1,5 @@
+--> GPIO
+--> SPI
+--> I2C
+--> USART
+--> Some hardware topics(like pin spec, voltage levels, io current etc.)
